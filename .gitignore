@@ -1,0 +1,28 @@
+# Entornos virtuales
+venv/
+env/
+.venv/
+ENV/
+
+# Archivos de configuración sensibles
+.env
+
+# Archivos compilados de Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Paquetes
+*.egg-info/
+.eggs/
+
+# Carpetas de cache
+.cache/
+.pytest_cache/
+
+# Logs
+*.log
+
+# Configuración de VSCode
+.vscode/
